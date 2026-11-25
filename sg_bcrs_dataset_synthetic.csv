@@ -1,0 +1,501 @@
+return_location_type,container_type,time_period,region,containers_brought,travel_distance_km,queue_wait_minutes,return_point_status,return_outcome
+Supermarket,Metal Can,Weekend Morning,North,1,1.25,11.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North-East,7,1.28,5.1,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,North-East,22,3.48,5.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,Central,18,2.29,2.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North,18,1.01,11.8,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,West,14,0.77,9.3,Available,Successful
+Other,Plastic Bottle,Weekday Morning,North-East,12,6.06,8.0,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,East,25,4.44,17.3,Temporarily Full,Successful
+Community Collection Point,Plastic Bottle,Weekday Evening,North,18,1.12,7.9,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,Central,25,1.05,10.4,Temporarily Full,Unsuccessful
+Other,Plastic Bottle,Weekday Morning,North,14,0.26,2.9,Available,Successful
+Other,Plastic Bottle,Weekday Morning,West,2,3.97,7.5,Available,Successful
+Beverage Retailer,Metal Can,Weekday Morning,West,18,2.36,1.4,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,North-East,24,5.13,1.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,East,21,1.75,1.1,Available,Successful
+Mall Return Point,Metal Can,Weekday Morning,North,5,0.1,22.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,West,21,2.31,3.4,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Afternoon,North-East,20,0.1,4.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,East,2,5.45,3.5,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Morning,North-East,2,2.81,3.1,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,North-East,20,1.88,6.4,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,West,3,3.86,17.1,Available,Successful
+Community Collection Point,Metal Can,Weekday Evening,North-East,29,3.87,12.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,East,29,1.93,4.7,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North-East,9,1.02,2.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,North,26,0.52,3.1,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,Central,7,1.59,16.9,Available,Successful
+Beverage Retailer,Metal Can,Weekend Evening,North-East,14,0.9,8.9,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,North-East,4,1.3,6.5,Available,Successful
+Supermarket,Metal Can,Weekday Evening,Central,7,3.66,4.7,Out of Service,Unsuccessful
+Supermarket,Metal Can,Weekday Evening,West,22,1.04,4.5,Available,Successful
+Mall Return Point,Metal Can,Weekend Morning,North,7,1.07,0.2,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Evening,West,7,0.74,3.9,Temporarily Full,Unsuccessful
+Beverage Retailer,Metal Can,Weekend Morning,West,9,4.13,7.1,Available,Successful
+Supermarket,Metal Can,Weekend Morning,Central,7,0.67,12.6,Available,Successful
+Other,Plastic Bottle,Weekday Morning,North-East,11,0.62,5.5,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Morning,Central,14,1.06,1.9,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,West,3,1.08,8.2,Available,Successful
+Other,Metal Can,Weekend Afternoon,North,28,0.27,13.2,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North,10,0.63,11.3,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,East,13,3.69,8.4,Available,Successful
+Supermarket,Metal Can,Weekday Evening,East,2,0.38,3.1,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,Central,15,5.65,4.7,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,Central,2,2.39,10.1,Available,Successful
+Supermarket,Metal Can,Weekday Morning,Central,9,0.74,2.4,Temporarily Full,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekday Afternoon,Central,27,1.36,3.6,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Evening,North-East,4,1.81,0.9,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North-East,21,1.6,8.4,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,North,23,1.56,10.6,Available,Unsuccessful
+Beverage Retailer,Metal Can,Weekday Afternoon,West,23,1.32,1.1,Available,Successful
+Beverage Retailer,Metal Can,Weekday Afternoon,North-East,3,0.61,4.9,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,East,21,1.15,1.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,30,1.09,5.5,Available,Successful
+Beverage Retailer,Metal Can,Weekend Morning,North,10,0.8,12.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,North,25,0.38,9.4,Available,Successful
+Community Collection Point,Metal Can,Weekday Morning,North,20,0.78,4.0,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,East,27,1.57,4.0,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Evening,Central,27,0.59,1.4,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,Central,7,1.56,6.1,Temporarily Full,Unsuccessful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,East,28,1.09,14.9,Available,Successful
+Beverage Retailer,Metal Can,Weekday Evening,Central,15,0.26,7.0,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,West,13,1.57,1.9,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,Central,1,2.02,2.1,Available,Successful
+Supermarket,Metal Can,Weekend Morning,East,27,1.28,13.8,Available,Successful
+Other,Plastic Bottle,Weekend Afternoon,North,2,0.63,2.9,Available,Successful
+Other,Plastic Bottle,Weekday Morning,East,23,2.25,18.7,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,West,29,1.74,5.3,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North,7,1.85,3.6,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,East,1,1.14,2.7,Available,Successful
+Supermarket,Metal Can,Weekend Evening,East,17,5.36,9.5,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North-East,27,3.1,9.4,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,North-East,9,1.31,2.9,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Evening,North,21,1.69,13.4,Available,Successful
+Other,Plastic Bottle,Weekday Morning,East,7,0.7,1.2,Out of Service,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,West,11,4.44,7.3,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Morning,North,15,0.8,6.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,North,15,1.66,5.6,Temporarily Full,Successful
+Other,Plastic Bottle,Weekend Morning,East,19,1.54,5.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,North,4,1.4,4.9,Available,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Afternoon,North,1,2.09,5.8,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,9,0.8,9.7,Temporarily Full,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekend Evening,North,10,1.16,8.8,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Morning,North-East,23,3.64,8.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North,12,0.66,17.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,East,24,1.37,17.4,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,North-East,7,0.41,6.5,Out of Service,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North,1,6.01,16.3,Available,Successful
+Beverage Retailer,Metal Can,Weekend Afternoon,North,22,1.0,8.0,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Afternoon,North-East,15,1.05,0.5,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Evening,East,7,0.6,11.3,Available,Unsuccessful
+Other,Plastic Bottle,Weekday Afternoon,North-East,20,1.83,5.3,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Evening,East,18,1.1,8.7,Temporarily Full,Unsuccessful
+Other,Metal Can,Weekend Evening,North,13,1.76,5.1,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,North,25,2.21,7.6,Out of Service,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Evening,West,27,1.94,8.7,Available,Successful
+Community Collection Point,Plastic Bottle,Weekday Morning,East,28,1.45,1.0,Available,Successful
+Beverage Retailer,Metal Can,Weekend Evening,West,10,2.66,14.8,Available,Successful
+Other,Plastic Bottle,Weekend Evening,East,6,2.84,2.2,Available,Successful
+Supermarket,Metal Can,Weekday Morning,West,13,3.38,15.0,Available,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Evening,West,7,1.14,1.4,Available,Unsuccessful
+Mall Return Point,Plastic Bottle,Weekend Morning,North,15,1.78,2.4,Available,Successful
+Supermarket,Metal Can,Weekday Morning,West,9,0.47,7.3,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North-East,29,1.65,6.7,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,West,11,3.16,1.6,Available,Successful
+Mall Return Point,Metal Can,Weekday Afternoon,West,16,2.87,6.6,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Evening,West,9,2.14,10.7,Available,Successful
+Beverage Retailer,Metal Can,Weekday Afternoon,West,7,0.9,0.7,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,West,22,0.8,8.7,Temporarily Full,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekday Afternoon,East,11,2.04,7.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,West,15,4.98,1.9,Temporarily Full,Unsuccessful
+Community Collection Point,Metal Can,Weekend Morning,West,27,0.31,13.9,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Evening,West,2,3.46,2.8,Available,Successful
+Community Collection Point,Metal Can,Weekend Morning,North-East,5,2.12,2.2,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North,7,0.46,16.8,Temporarily Full,Unsuccessful
+Supermarket,Metal Can,Weekend Morning,Central,6,2.61,7.4,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,Central,8,2.86,9.3,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,1,4.54,5.9,Available,Successful
+Beverage Retailer,Metal Can,Weekday Morning,West,24,0.8,10.6,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,East,20,3.36,2.9,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Evening,North,4,0.52,4.0,Available,Successful
+Community Collection Point,Metal Can,Weekend Afternoon,Central,24,0.99,4.3,Available,Successful
+Mall Return Point,Metal Can,Weekend Evening,West,3,2.74,11.7,Available,Successful
+Supermarket,Metal Can,Weekday Evening,Central,6,0.78,2.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,West,20,1.34,15.0,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,Central,25,1.09,8.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,3,1.2,8.9,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Afternoon,West,1,0.81,7.5,Out of Service,Unsuccessful
+Mall Return Point,Metal Can,Weekend Afternoon,North,22,1.03,16.0,Available,Successful
+Supermarket,Metal Can,Weekday Morning,Central,26,1.82,1.7,Temporarily Full,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,East,6,1.87,11.0,Temporarily Full,Unsuccessful
+Other,Plastic Bottle,Weekend Morning,West,20,1.51,2.0,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,West,19,3.24,6.1,Available,Successful
+Community Collection Point,Metal Can,Weekend Evening,North-East,2,2.76,3.6,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Evening,Central,11,2.58,5.6,Available,Successful
+Supermarket,Metal Can,Weekend Morning,Central,1,1.31,3.3,Available,Successful
+Community Collection Point,Metal Can,Weekday Morning,West,3,2.27,1.4,Available,Successful
+Community Collection Point,Plastic Bottle,Weekday Morning,North-East,8,1.25,0.7,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Morning,East,21,0.22,3.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,West,18,2.26,5.8,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,West,1,2.39,6.2,Available,Successful
+Beverage Retailer,Metal Can,Weekend Evening,North,30,1.77,9.9,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North,23,2.67,6.7,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekend Evening,East,1,0.17,7.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,West,28,0.57,3.4,Available,Successful
+Other,Plastic Bottle,Weekday Morning,West,30,3.29,5.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,7,1.16,8.5,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,West,13,1.82,6.0,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,15,3.61,10.6,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,West,20,1.1,3.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,West,22,1.32,3.7,Available,Successful
+Other,Metal Can,Weekend Afternoon,Central,22,1.31,16.6,Available,Successful
+Supermarket,Metal Can,Weekday Morning,North-East,10,2.73,5.3,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Evening,Central,10,0.59,3.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,Central,18,1.49,2.6,Available,Successful
+Community Collection Point,Metal Can,Weekday Afternoon,North,8,1.52,13.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,West,1,5.42,8.9,Available,Successful
+Mall Return Point,Metal Can,Weekend Afternoon,East,14,1.9,21.3,Temporarily Full,Unsuccessful
+Supermarket,Metal Can,Weekday Afternoon,North-East,10,1.99,4.3,Available,Successful
+Supermarket,Metal Can,Weekday Morning,Central,23,1.15,12.9,Available,Unsuccessful
+Community Collection Point,Metal Can,Weekday Morning,North,9,1.95,1.2,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Evening,Central,30,0.65,3.0,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,West,21,5.27,11.2,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North-East,23,1.91,3.3,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Evening,West,19,2.54,1.2,Available,Successful
+Supermarket,Metal Can,Weekend Morning,Central,28,1.41,2.0,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,West,21,0.73,11.3,Available,Successful
+Other,Plastic Bottle,Weekday Morning,North-East,28,3.59,6.7,Temporarily Full,Successful
+Supermarket,Metal Can,Weekday Morning,East,27,0.72,12.2,Available,Successful
+Supermarket,Metal Can,Weekday Morning,East,22,2.22,6.8,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North,29,1.85,9.5,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,North-East,1,2.89,4.4,Out of Service,Unsuccessful
+Supermarket,Metal Can,Weekend Morning,North-East,4,2.5,7.6,Temporarily Full,Unsuccessful
+Beverage Retailer,Metal Can,Weekend Afternoon,East,22,1.34,3.9,Available,Successful
+Other,Plastic Bottle,Weekday Evening,North-East,20,0.8,3.5,Available,Successful
+Other,Plastic Bottle,Weekend Morning,North-East,3,3.73,6.1,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,North-East,11,0.85,4.5,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,North,20,4.81,1.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,Central,10,0.56,4.0,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Morning,West,27,1.17,2.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North,25,3.96,14.4,Available,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekday Afternoon,North,8,0.92,6.5,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,North,16,1.49,1.4,Temporarily Full,Unsuccessful
+Mall Return Point,Metal Can,Weekday Afternoon,East,15,6.52,3.4,Available,Successful
+Other,Plastic Bottle,Weekday Evening,Central,14,0.48,2.2,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North-East,20,1.54,5.4,Available,Successful
+Beverage Retailer,Metal Can,Weekday Evening,North,6,0.35,1.5,Available,Successful
+Community Collection Point,Metal Can,Weekday Afternoon,East,13,3.57,12.1,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Afternoon,North-East,23,3.67,11.3,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Afternoon,North,8,5.36,10.6,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,East,27,0.57,5.7,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,East,2,2.33,13.2,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Afternoon,North-East,21,1.91,4.2,Available,Successful
+Supermarket,Metal Can,Weekday Evening,East,21,3.81,2.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North-East,22,1.93,4.6,Available,Successful
+Community Collection Point,Metal Can,Weekend Morning,North-East,19,1.73,2.4,Available,Successful
+Beverage Retailer,Metal Can,Weekday Morning,Central,4,1.28,4.5,Temporarily Full,Successful
+Other,Metal Can,Weekend Afternoon,North-East,10,1.55,10.8,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North,10,1.17,6.6,Available,Successful
+Supermarket,Metal Can,Weekend Morning,West,8,1.72,9.1,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Morning,North,15,0.19,4.4,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,Central,12,5.15,7.2,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,Central,24,1.13,9.4,Available,Successful
+Supermarket,Metal Can,Weekday Morning,Central,6,0.6,7.9,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Afternoon,North,3,1.15,5.3,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Morning,North,13,3.55,3.4,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Evening,North-East,7,2.69,6.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,30,1.59,6.1,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Evening,North,29,2.08,6.9,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Evening,West,18,1.63,1.3,Temporarily Full,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,North,5,4.98,12.7,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Evening,West,25,1.86,13.3,Available,Successful
+Beverage Retailer,Metal Can,Weekend Morning,East,22,1.87,7.0,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,Central,19,0.75,13.0,Available,Successful
+Supermarket,Metal Can,Weekday Evening,North,13,1.33,12.6,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,21,1.32,2.0,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North,27,1.11,2.0,Available,Successful
+Supermarket,Metal Can,Weekday Evening,North-East,6,3.47,15.2,Available,Successful
+Other,Plastic Bottle,Weekend Morning,East,3,1.1,2.0,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North,12,0.78,6.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,East,23,1.69,6.5,Temporarily Full,Unsuccessful
+Supermarket,Metal Can,Weekend Morning,North-East,15,0.27,4.3,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Evening,East,29,1.07,9.8,Available,Successful
+Beverage Retailer,Metal Can,Weekend Afternoon,North,13,0.4,9.2,Available,Successful
+Beverage Retailer,Metal Can,Weekend Evening,North-East,22,2.65,10.3,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,Central,21,1.11,4.2,Available,Successful
+Supermarket,Metal Can,Weekday Evening,Central,11,3.11,4.4,Out of Service,Unsuccessful
+Beverage Retailer,Metal Can,Weekend Evening,East,22,0.78,6.5,Available,Successful
+Other,Plastic Bottle,Weekend Afternoon,West,30,0.58,6.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Evening,Central,25,3.23,2.1,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,East,25,2.39,2.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,Central,18,4.22,7.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,West,21,0.63,1.3,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Morning,Central,21,0.57,0.8,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Morning,Central,9,0.98,0.8,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,West,27,5.15,3.1,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Evening,Central,23,2.16,2.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,Central,15,4.66,2.3,Temporarily Full,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekend Morning,West,28,2.83,18.9,Available,Successful
+Supermarket,Metal Can,Weekend Evening,Central,18,1.49,8.4,Available,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Afternoon,North,20,0.46,6.1,Available,Successful
+Mall Return Point,Metal Can,Weekend Evening,West,10,1.67,3.7,Available,Successful
+Other,Plastic Bottle,Weekend Afternoon,West,12,1.39,6.9,Available,Unsuccessful
+Other,Metal Can,Weekday Morning,Central,28,5.47,9.2,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Morning,East,30,1.82,4.3,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Afternoon,West,13,2.15,6.4,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North,2,4.56,13.3,Available,Successful
+Beverage Retailer,Metal Can,Weekend Morning,North-East,8,0.5,1.3,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Afternoon,East,10,1.33,6.8,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North,20,1.74,5.9,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,North,29,1.1,5.9,Available,Successful
+Other,Plastic Bottle,Weekend Afternoon,North,5,1.06,3.5,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Morning,West,19,2.37,7.5,Available,Successful
+Supermarket,Metal Can,Weekday Evening,Central,16,1.32,9.8,Available,Successful
+Other,Plastic Bottle,Weekday Evening,East,3,0.29,11.0,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,North-East,27,0.47,12.1,Available,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekend Evening,East,17,8.16,10.8,Temporarily Full,Successful
+Supermarket,Metal Can,Weekend Morning,East,8,3.8,4.4,Available,Successful
+Other,Metal Can,Weekend Morning,North,30,1.64,25.0,Available,Successful
+Other,Metal Can,Weekend Afternoon,North-East,1,2.05,11.9,Out of Service,Unsuccessful
+Beverage Retailer,Metal Can,Weekday Evening,Central,28,2.75,3.3,Available,Successful
+Other,Metal Can,Weekend Afternoon,North-East,5,2.51,2.8,Available,Successful
+Beverage Retailer,Metal Can,Weekend Evening,North-East,10,0.51,19.3,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Morning,West,14,2.35,6.8,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Evening,East,8,2.12,7.8,Available,Successful
+Community Collection Point,Metal Can,Weekend Evening,North,10,0.22,7.1,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,West,9,1.87,16.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,North-East,5,1.92,13.9,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,North,7,0.89,11.9,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,East,4,1.9,2.5,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Evening,North-East,6,2.11,2.1,Available,Successful
+Supermarket,Metal Can,Weekend Morning,West,9,1.01,1.7,Available,Successful
+Other,Metal Can,Weekday Morning,West,10,2.3,0.2,Temporarily Full,Unsuccessful
+Other,Plastic Bottle,Weekday Afternoon,Central,30,2.21,1.9,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,North,24,1.11,3.9,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North-East,21,0.47,9.7,Available,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,East,16,1.42,3.9,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,East,19,1.08,4.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,West,7,3.4,6.1,Available,Successful
+Supermarket,Metal Can,Weekday Morning,Central,22,1.75,6.9,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,East,26,2.21,10.0,Out of Service,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,West,17,1.75,13.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,14,3.94,3.1,Available,Successful
+Supermarket,Metal Can,Weekday Evening,East,28,1.34,1.9,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,East,5,1.39,2.8,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Afternoon,Central,19,4.06,4.4,Temporarily Full,Unsuccessful
+Mall Return Point,Metal Can,Weekend Evening,Central,19,0.97,3.4,Temporarily Full,Unsuccessful
+Community Collection Point,Metal Can,Weekend Evening,Central,15,4.25,2.1,Available,Successful
+Other,Metal Can,Weekday Morning,North,2,1.61,4.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Evening,East,4,2.14,7.4,Out of Service,Unsuccessful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,West,1,1.22,7.9,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,East,15,2.95,10.1,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,24,2.12,5.2,Available,Successful
+Other,Plastic Bottle,Weekday Morning,North,18,1.62,8.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,North,10,0.46,7.8,Available,Successful
+Community Collection Point,Metal Can,Weekday Evening,North-East,20,0.98,5.8,Available,Successful
+Beverage Retailer,Metal Can,Weekday Evening,East,19,1.73,5.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,West,16,3.81,18.8,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,North-East,14,0.99,6.1,Out of Service,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Morning,West,21,2.58,17.0,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Afternoon,West,30,0.43,2.2,Available,Successful
+Community Collection Point,Metal Can,Weekend Afternoon,West,10,2.7,14.7,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Evening,East,3,0.54,7.1,Available,Unsuccessful
+Supermarket,Metal Can,Weekend Afternoon,North,27,2.87,9.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,West,30,0.96,8.8,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,East,28,1.9,4.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,21,1.77,7.5,Available,Successful
+Beverage Retailer,Metal Can,Weekday Evening,North,17,0.59,12.1,Available,Successful
+Supermarket,Metal Can,Weekend Evening,Central,30,3.48,2.4,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,West,16,3.06,6.5,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,North-East,6,0.9,8.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North-East,15,3.36,14.9,Available,Unsuccessful
+Mall Return Point,Metal Can,Weekday Morning,Central,9,1.61,8.3,Temporarily Full,Unsuccessful
+Beverage Retailer,Metal Can,Weekend Afternoon,West,4,0.4,12.9,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Afternoon,North,4,4.28,7.6,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,Central,4,2.28,10.9,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North,30,2.9,2.1,Available,Successful
+Supermarket,Metal Can,Weekend Evening,Central,26,1.01,8.4,Available,Successful
+Beverage Retailer,Metal Can,Weekday Morning,North-East,9,0.55,5.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,East,8,2.72,2.8,Available,Successful
+Supermarket,Metal Can,Weekday Evening,North,8,3.55,4.3,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,Central,9,0.25,2.1,Available,Successful
+Mall Return Point,Metal Can,Weekday Afternoon,North,17,5.09,0.9,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Afternoon,Central,19,1.03,5.5,Available,Successful
+Community Collection Point,Metal Can,Weekday Afternoon,West,27,4.15,5.5,Temporarily Full,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekday Morning,North-East,26,1.23,2.2,Available,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekday Morning,Central,17,1.96,2.9,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North-East,8,1.28,1.6,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North-East,1,0.39,3.3,Available,Successful
+Mall Return Point,Metal Can,Weekday Evening,East,7,0.48,11.5,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Afternoon,East,10,0.71,1.7,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,East,8,1.21,2.6,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Evening,Central,19,0.35,6.2,Available,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Evening,Central,19,1.12,4.3,Available,Successful
+Community Collection Point,Plastic Bottle,Weekday Afternoon,North-East,15,2.19,3.6,Out of Service,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekend Evening,North,18,4.77,3.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North,7,1.91,11.0,Available,Unsuccessful
+Mall Return Point,Metal Can,Weekend Morning,West,9,0.9,4.7,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,West,11,1.11,2.9,Out of Service,Unsuccessful
+Other,Plastic Bottle,Weekday Morning,East,13,0.51,2.6,Out of Service,Unsuccessful
+Other,Plastic Bottle,Weekend Morning,Central,13,1.4,3.7,Available,Successful
+Other,Plastic Bottle,Weekend Morning,North,30,1.28,15.5,Out of Service,Unsuccessful
+Other,Plastic Bottle,Weekend Morning,Central,1,1.86,3.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North,14,3.35,11.4,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,North-East,19,2.79,8.2,Temporarily Full,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekday Evening,North,1,0.68,1.9,Available,Successful
+Beverage Retailer,Metal Can,Weekend Evening,East,26,0.29,2.0,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,Central,13,0.39,3.8,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Evening,West,6,0.87,5.5,Available,Successful
+Supermarket,Metal Can,Weekend Afternoon,Central,28,2.43,11.0,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,North-East,24,0.84,5.3,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,North-East,11,2.36,4.6,Available,Successful
+Community Collection Point,Metal Can,Weekday Afternoon,West,12,1.26,2.9,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,2,5.2,2.4,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,8,2.97,13.1,Available,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Morning,West,1,0.38,2.5,Available,Unsuccessful
+Community Collection Point,Plastic Bottle,Weekend Morning,West,18,2.47,7.3,Out of Service,Unsuccessful
+Supermarket,Metal Can,Weekend Evening,East,8,0.75,8.1,Temporarily Full,Successful
+Supermarket,Metal Can,Weekday Morning,West,6,0.14,5.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,Central,11,2.95,10.2,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Afternoon,West,10,1.16,4.0,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,North,26,4.68,5.6,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,Central,25,3.61,2.1,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,Central,24,1.16,11.5,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,West,14,0.31,12.8,Out of Service,Unsuccessful
+Other,Metal Can,Weekday Morning,North,21,0.49,5.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,East,29,2.41,5.6,Available,Successful
+Mall Return Point,Metal Can,Weekday Morning,North-East,12,1.96,1.3,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,Central,9,0.65,9.2,Available,Successful
+Other,Plastic Bottle,Weekday Morning,West,7,0.86,3.0,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,Central,8,6.06,5.3,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,Central,4,1.66,6.1,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Evening,Central,17,1.28,5.1,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,North-East,8,0.22,2.3,Out of Service,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Evening,North-East,25,0.36,13.1,Available,Successful
+Other,Plastic Bottle,Weekday Evening,East,21,3.2,0.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,Central,24,4.59,12.4,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Evening,West,10,1.57,2.8,Available,Successful
+Supermarket,Metal Can,Weekend Morning,North-East,8,0.86,16.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,West,19,1.05,4.1,Available,Successful
+Community Collection Point,Plastic Bottle,Weekday Morning,Central,6,0.93,4.0,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North,4,1.54,8.4,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekday Evening,Central,10,1.82,0.7,Temporarily Full,Unsuccessful
+Supermarket,Metal Can,Weekday Evening,North-East,13,5.41,8.1,Available,Successful
+Supermarket,Metal Can,Weekday Evening,Central,13,1.44,8.7,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North-East,30,0.69,7.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,Central,6,1.17,9.3,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,North-East,30,3.16,6.0,Available,Successful
+Other,Plastic Bottle,Weekday Morning,West,6,1.04,2.1,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,Central,26,0.23,3.4,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,East,23,1.15,6.9,Available,Successful
+Community Collection Point,Plastic Bottle,Weekday Morning,North-East,27,0.82,2.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,10,2.22,17.2,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,Central,19,2.27,1.7,Out of Service,Unsuccessful
+Supermarket,Metal Can,Weekday Evening,West,28,5.11,2.9,Available,Successful
+Beverage Retailer,Metal Can,Weekend Afternoon,East,12,0.99,3.1,Temporarily Full,Unsuccessful
+Community Collection Point,Metal Can,Weekday Afternoon,North-East,17,1.54,0.9,Available,Successful
+Supermarket,Metal Can,Weekday Evening,Central,27,3.38,2.3,Temporarily Full,Unsuccessful
+Mall Return Point,Plastic Bottle,Weekday Morning,West,1,0.92,3.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North,19,0.85,4.0,Out of Service,Unsuccessful
+Beverage Retailer,Metal Can,Weekday Morning,East,22,0.46,7.0,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekend Evening,Central,2,3.25,7.2,Out of Service,Unsuccessful
+Supermarket,Metal Can,Weekday Evening,North-East,6,2.24,15.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,28,1.0,5.9,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,East,13,0.5,8.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,West,15,3.21,14.7,Available,Successful
+Community Collection Point,Metal Can,Weekend Evening,North-East,14,3.89,4.2,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,West,8,0.81,7.0,Available,Successful
+Community Collection Point,Metal Can,Weekend Morning,Central,2,0.86,6.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,Central,11,3.74,5.6,Available,Successful
+Community Collection Point,Metal Can,Weekday Afternoon,Central,28,0.7,3.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,Central,24,1.0,5.5,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,West,9,0.44,14.6,Available,Successful
+Other,Metal Can,Weekend Evening,North-East,3,1.43,23.4,Available,Successful
+Community Collection Point,Plastic Bottle,Weekday Morning,North,19,3.68,2.5,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North,21,4.47,4.5,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,West,8,3.75,3.8,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Afternoon,North-East,17,2.54,8.0,Available,Successful
+Beverage Retailer,Metal Can,Weekday Afternoon,North-East,18,3.93,2.4,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North,11,0.95,6.9,Available,Successful
+Beverage Retailer,Metal Can,Weekend Afternoon,Central,26,3.96,8.8,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Afternoon,North-East,25,0.57,7.3,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North-East,6,1.57,13.7,Available,Successful
+Beverage Retailer,Metal Can,Weekend Morning,West,4,2.39,12.7,Out of Service,Unsuccessful
+Mall Return Point,Metal Can,Weekend Evening,Central,13,2.49,17.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,West,17,0.95,6.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,East,16,1.99,2.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,East,13,4.15,8.7,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North,4,2.56,3.4,Out of Service,Unsuccessful
+Other,Plastic Bottle,Weekday Afternoon,North-East,14,3.94,5.6,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Morning,East,18,0.41,11.0,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North,26,0.27,6.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,30,0.51,2.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,North,10,0.81,2.1,Available,Successful
+Other,Metal Can,Weekday Morning,Central,25,2.6,1.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,Central,2,2.3,4.4,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,16,0.1,6.1,Temporarily Full,Unsuccessful
+Mall Return Point,Plastic Bottle,Weekend Evening,East,12,2.25,11.9,Available,Successful
+Supermarket,Metal Can,Weekend Evening,West,7,2.59,5.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,North,11,1.77,3.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,North,4,1.5,3.6,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Evening,East,13,0.48,4.6,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,North-East,27,2.08,2.4,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,North,1,0.83,9.4,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North,23,3.7,6.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,West,15,1.22,11.4,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,North,24,1.93,3.3,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Morning,North-East,16,1.58,8.6,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Afternoon,Central,15,1.28,3.1,Available,Successful
+Beverage Retailer,Metal Can,Weekday Afternoon,East,9,2.37,7.8,Out of Service,Unsuccessful
+Beverage Retailer,Plastic Bottle,Weekend Morning,North-East,2,3.49,10.0,Available,Successful
+Other,Plastic Bottle,Weekend Evening,North,19,0.47,2.5,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,North-East,18,2.22,5.8,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekday Evening,Central,15,4.35,4.7,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Afternoon,West,16,1.08,11.2,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Morning,West,3,1.18,2.9,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,West,2,1.63,2.8,Available,Successful
+Mall Return Point,Metal Can,Weekday Evening,North,26,0.93,3.5,Available,Successful
+Community Collection Point,Metal Can,Weekend Afternoon,West,12,1.15,4.5,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Evening,North,12,0.96,3.2,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,Central,20,4.01,21.0,Available,Successful
+Mall Return Point,Metal Can,Weekday Morning,Central,19,3.05,7.7,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Morning,North-East,5,1.66,19.1,Available,Successful
+Other,Plastic Bottle,Weekend Afternoon,North-East,16,1.85,9.3,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Evening,Central,9,0.99,5.3,Available,Successful
+Supermarket,Metal Can,Weekday Evening,West,15,3.21,5.4,Available,Successful
+Supermarket,Metal Can,Weekday Afternoon,West,7,0.81,2.3,Available,Successful
+Supermarket,Plastic Bottle,Weekday Afternoon,North-East,21,2.41,2.2,Available,Successful
+Community Collection Point,Plastic Bottle,Weekend Afternoon,North,23,2.48,7.1,Available,Successful
+Supermarket,Metal Can,Weekend Morning,East,12,2.6,10.5,Available,Successful
+Supermarket,Plastic Bottle,Weekday Evening,North-East,12,0.76,3.8,Temporarily Full,Successful
+Supermarket,Plastic Bottle,Weekend Morning,East,13,1.99,7.4,Available,Successful
+Community Collection Point,Metal Can,Weekday Afternoon,North,20,0.41,4.4,Available,Successful
+Supermarket,Metal Can,Weekend Morning,North,8,2.27,9.8,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,Central,12,1.6,14.8,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,East,21,0.41,15.7,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Afternoon,West,13,2.6,5.1,Available,Successful
+Mall Return Point,Metal Can,Weekend Afternoon,West,17,1.36,2.5,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Evening,North-East,4,2.12,10.3,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,Central,24,1.4,5.5,Available,Successful
+Mall Return Point,Plastic Bottle,Weekend Morning,North-East,13,0.85,17.6,Available,Successful
+Supermarket,Metal Can,Weekday Evening,North-East,3,2.14,2.8,Available,Successful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,30,0.42,6.4,Out of Service,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Morning,North,11,2.11,3.2,Available,Successful
+Beverage Retailer,Plastic Bottle,Weekend Afternoon,North-East,23,0.61,10.1,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,North-East,18,2.16,5.0,Available,Successful
+Other,Metal Can,Weekend Evening,West,21,0.8,8.1,Available,Successful
+Supermarket,Plastic Bottle,Weekday Morning,West,12,2.17,7.7,Available,Successful
+Beverage Retailer,Metal Can,Weekday Evening,West,25,2.97,8.7,Available,Successful
+Mall Return Point,Metal Can,Weekday Evening,North,29,0.46,4.1,Available,Successful
+Supermarket,Plastic Bottle,Weekend Evening,Central,2,0.35,10.4,Temporarily Full,Successful
+Beverage Retailer,Plastic Bottle,Weekend Evening,East,29,2.34,8.3,Available,Successful
+Beverage Retailer,Metal Can,Weekend Evening,North-East,24,1.5,7.3,Out of Service,Unsuccessful
+Community Collection Point,Metal Can,Weekend Evening,West,4,0.85,1.1,Available,Successful
+Community Collection Point,Metal Can,Weekday Evening,Central,24,1.98,4.3,Available,Successful
+Mall Return Point,Plastic Bottle,Weekday Morning,East,4,0.91,2.5,Temporarily Full,Unsuccessful
+Mall Return Point,Plastic Bottle,Weekday Morning,North,20,0.56,2.0,Available,Successful
+Beverage Retailer,Metal Can,Weekday Afternoon,North-East,7,0.19,4.9,Temporarily Full,Unsuccessful
+Supermarket,Plastic Bottle,Weekday Evening,North,28,3.36,8.6,Available,Successful
+Supermarket,Plastic Bottle,Weekend Morning,Central,12,3.73,12.9,Available,Unsuccessful
+Supermarket,Plastic Bottle,Weekend Afternoon,East,2,3.39,8.2,Available,Successful
